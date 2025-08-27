@@ -1,4 +1,5 @@
 {
+  "include": ["src/**/*", "test/**/*", ".storybook/**/*"],
   "compilerOptions": {
     "module": "nodenext",
     "moduleResolution": "nodenext",
